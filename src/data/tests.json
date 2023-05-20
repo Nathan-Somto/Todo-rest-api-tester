@@ -3,7 +3,7 @@
         "ensure that your rest api is live i.e hosted on a platform.",
         "ensure that your api has cors set to this domain.",
         "ensure that your base url ends with /api to follow  rest api conventions.",
-        "your api should return the right response code according to http convetion",
+        "your api should return the right response code according to http convention",
         "all data must be returned in json format",
         "ensure that you have a get endpoint (/todos) to retrieve all the list of todos in your api.",
         "ensure that you have a post endpoint (/todos) to post a new todo, it must return the id of the newly created todo ",
